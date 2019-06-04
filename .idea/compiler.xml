@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eurekaserver" />
+        <module name="servicefeign" />
+        <module name="servicegateway" />
+        <module name="servicehystric" />
+        <module name="serviceribbon" />
+        <module name="springcloud2.1.2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
